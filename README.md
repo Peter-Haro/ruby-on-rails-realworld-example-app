@@ -40,3 +40,5 @@ That's it. Now you can use the api, i.e.
 ```
 http://127.0.0.1:3000/api/articles
 ```
+
+Pull & Enjoy 
